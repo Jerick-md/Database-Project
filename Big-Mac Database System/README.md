@@ -1,7 +1,7 @@
-# Restaurant Sales and Inventory Management System using SQL
+# Big-Mac Sales and Inventory Management System using SQL
 
 ## Project Title
-Restaurant Sales and Inventory Management System using SQL
+Big-Mac Sales and Inventory Management System using SQL
 
 ## Project Description
 This project is designed to manage restaurant operations including employees, menu items, sales transactions, inventory, and suppliers. The database uses SQL relationships to ensure accurate tracking and reporting.
@@ -96,4 +96,4 @@ ON s.supplier_id = r.supplier_id;
 - Report Generation
 
 ## Conclusion
-The Restaurant Sales and Inventory Management System demonstrates the practical use of SQL in managing restaurant operations. It integrates sales tracking, inventory management, employee monitoring, and supplier coordination into a single relational database.
+The Big-Mac Sales and Inventory Management System demonstrates the practical use of SQL in managing restaurant operations. It integrates sales tracking, inventory management, employee monitoring, and supplier coordination into a single relational database.
